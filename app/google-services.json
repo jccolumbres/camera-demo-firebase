@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94718760672",
+    "firebase_url": "https://camera-demo-firebase.firebaseio.com",
+    "project_id": "camera-demo-firebase",
+    "storage_bucket": "camera-demo-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94718760672:android:6fec58dc2d4acc0a5e6285",
+        "android_client_info": {
+          "package_name": "application.ayannah.com.camera_demo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94718760672-3l23336f4ibmduh5asgij6vqbousge3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC1xqA5hvJAtiPJgSXdtu8ozjfa9bts5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94718760672-3l23336f4ibmduh5asgij6vqbousge3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
